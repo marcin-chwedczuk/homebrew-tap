@@ -10,5 +10,4 @@ cask "iunrar" do
   auto_updates true
 
   app "iunrar.app"
-
 end
