@@ -26,7 +26,14 @@ GitHub: [https://github.com/marcin-chwedczuk/img2h](https://github.com/marcin-ch
 
 Install: `brew install --no-quarantine img2h`
 
+### elf-viewer
+
+GitHub: [https://github.com/marcin-chwedczuk/elf-viewer](https://github.com/marcin-chwedczuk/elf-viewer)
 
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+
+### How to add another formula?
+
+Use [the official guide](https://brew.sh/2020/11/18/homebrew-tap-with-bottles-uploaded-to-github-releases/).
