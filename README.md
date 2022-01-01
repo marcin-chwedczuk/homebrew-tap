@@ -30,3 +30,7 @@ Install: `brew install --no-quarantine img2h`
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+
+### How to add another formula?
+
+Use [the official guide](https://brew.sh/2020/11/18/homebrew-tap-with-bottles-uploaded-to-github-releases/).
