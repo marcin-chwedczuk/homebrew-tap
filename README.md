@@ -26,6 +26,9 @@ GitHub: [https://github.com/marcin-chwedczuk/img2h](https://github.com/marcin-ch
 
 Install: `brew install --no-quarantine img2h`
 
+### elf-viewer
+
+GitHub: [https://github.com/marcin-chwedczuk/elf-viewer](https://github.com/marcin-chwedczuk/elf-viewer)
 
 ## Documentation
 
